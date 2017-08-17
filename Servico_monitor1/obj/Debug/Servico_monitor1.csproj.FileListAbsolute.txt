@@ -1,0 +1,15 @@
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\bin\Debug\DIY.exe.config
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\bin\Debug\DIY.exe
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\bin\Debug\DIY.pdb
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\obj\Debug\Servico_monitor1.csprojResolveAssemblyReference.cache
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\obj\Debug\Servico_monitor1.ProjectInstaller.resources
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\obj\Debug\Servico_monitor1.csproj.GenerateResource.Cache
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\obj\Debug\DIY.exe
+D:\users\antonio.rosario\Documents\Visual Studio 2013\Projects\Servico_monitor1\Servico_monitor1\obj\Debug\DIY.pdb
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\bin\Debug\ServicoAgenteTAM.exe.config
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\bin\Debug\ServicoAgenteTAM.exe
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\bin\Debug\ServicoAgenteTAM.pdb
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\obj\Debug\Servico_monitor1.ProjectInstaller.resources
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\obj\Debug\Servico_monitor1.csproj.GenerateResource.Cache
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\obj\Debug\ServicoAgenteTAM.exe
+d:\Users\antonio.rosario\Desktop\GitHub\Servico_monitor1\Servico_monitor1\obj\Debug\ServicoAgenteTAM.pdb
