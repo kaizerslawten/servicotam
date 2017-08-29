@@ -20,7 +20,7 @@ namespace Servico_monitor1
 
         private void serviceProcessInstaller1_AfterInstall(object sender, InstallEventArgs e)
         {
-            this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
+            //this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             //this.serviceProcessInstaller1.Username = "antonio.rosario@tivit.com.br";
             //this.serviceProcessInstaller1.Username = "dmtlab\antonio";
             //this.serviceProcessInstaller1.Password = "Tivit@123";
@@ -62,5 +62,39 @@ namespace Servico_monitor1
         {
 
         }
+
+        private void ProjectInstaller_BeforeInstall(object sender, InstallEventArgs e)
+        {
+
+        }
+
+        public string GetContextParameter(string key)
+        {
+            string sValue = "";
+            try
+            {
+                sValue = this.Context.Parameters[key].ToString();
+            }
+            catch
+            {
+                sValue = "";
+            }
+            return sValue;
+        }
+
+        // Override the 'OnBeforeInstall' method.
+        protected override void OnBeforeInstall(IDictionary savedState)
+        {
+            base.OnBeforeInstall(savedState);
+
+            string username = GetContextParameter("user").Trim();
+            string password = GetContextParameter("password").Trim();
+
+            if (username != "")
+                serviceProcessInstaller1.Username = username;
+            if (password != "")
+                serviceProcessInstaller1.Password = password;
+        }
+
     }
 }
